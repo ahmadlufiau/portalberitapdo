@@ -1,7 +1,7 @@
 # PORTAL BERITA PHP PDO
-Portal Berita PHP PDO
+Portal Berita Sederhana dengan PHP PDO
 
 
-Login admin
-username : admin
+Login admin <br>
+username : admin <br>
 password : admin
